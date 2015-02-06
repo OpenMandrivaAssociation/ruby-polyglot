@@ -3,7 +3,7 @@
 Name:		ruby-%{rname}
 Summary:	Ruby library allowing a module to register a file type loader
 Version:	0.3.3
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Ruby
 URL:		http://rubygems.org/gems/polyglot
