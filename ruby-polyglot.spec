@@ -6,7 +6,7 @@ Version:	0.3.3
 Release:	2
 License:	MIT
 Group:		Development/Ruby
-URL:		http://rubygems.org/gems/polyglot
+URL:		https://rubygems.org/gems/polyglot
 Source0:	http://rubygems.org/downloads/polyglot-0.3.3.gem
 BuildArch:	noarch
 BuildRequires:	ruby-RubyGems
